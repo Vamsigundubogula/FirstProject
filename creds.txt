@@ -1,2 +1,0 @@
-username = vamsi1
-password = vamsi1
